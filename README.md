@@ -6,8 +6,8 @@ Mix server and clients that transmit messages between them in an encrypted and a
 
 1. [General](#General)
     - [Background](#background)
-    - [Project Stucture](https://github.com/tomershay100/Mix-servers/main/README.md#project-stucture)
-    - [Features](https://github.com/roeigida/Flight-Remote-App/edit/master/README.md#features)
+    - [Project Stucture](https://github.com/tomershay100/Mix-servers/blob/main/README.md#project-description)
+    - [Message forwarding](https://github.com/tomershay100/Mix-servers/blob/main/README.md#message-forwarding)
 2. [Dependencies](#dependencies)
 3. [Installation](#installation)
 
