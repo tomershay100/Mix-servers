@@ -16,10 +16,6 @@ Mix server and clients that transmit messages between them in an encrypted and a
 ### Background
 Mix servers receive and accumulate encrypted messages from many clients, decrypt the messages and deliver them to their destination once a minute. You can create a Mix server chain by creating a message in a way that causes one Mix server to send the message to another Mix server so that the message eventually reaches its destination. Because the messages accumulate on the servers and are sent once a minute, messages can be sent anonymously between a pair of clients.
 
-### Project Description
-
-ddddd
-
 ### Project Structure
 
 
