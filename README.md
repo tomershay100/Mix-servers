@@ -61,17 +61,17 @@ The receiving client decrypts the encryption (with the **symmetric key**) and pr
 	```	
 3. Run the receiver client:
 	```
-	$ python3 receiver.py password password
+	$ python3 receiver.py password password 5000
 	 ```
 4. Run the Mix servers:
    	```
-	$ python3 mix.py 1
+	$ python3 mix.py 1 9000
 	 ```
 	 ```
-	$ python3 mix.py 2
+	$ python3 mix.py 2 9001
 	 ```
 	 ```
-	$ python3 mix.py 3
+	$ python3 mix.py 3 9002
 	 ```
 5. Run the sending client:
    	```
