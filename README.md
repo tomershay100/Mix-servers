@@ -12,8 +12,7 @@ Mix server and clients that transmit messages between them in an encrypted and a
     - [Background](#background)
     - [Project Stucture](https://github.com/tomershay100/Mix-servers/blob/main/README.md#project-description)
     - [Message forwarding](https://github.com/tomershay100/Mix-servers/blob/main/README.md#message-forwarding)
-2. [Dependencies](#dependencies)
-3. [Installation](#installation)
+2. [Installation](#installation)
 
 ## General
 
